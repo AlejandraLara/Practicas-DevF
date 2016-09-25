@@ -1,0 +1,38 @@
+ <div class="section"> <!--SECCIOON-->
+  	  	<div class="row">
+  	  	<div class="col s12 m4">
+  	  	<div class="icon-block">
+  	  		<h2 class="center brown-text">
+  	  			<i class="material-icons">flash_on</i>
+ 			</h2>
+ 			<h5 class="center">speeds up development</h5>
+ 				<p class="light">
+ 				 podemos constatar  que el verdadero potencial no esta en simplemente ser activos espectadores, y ni siquiera en consolidarnos como creadores de contenido (algo que actualmente parece enorgullecernos bastante), sino en penetrar las entrañas digitales de los propios medios que utilizamos, así como en entender el cómo es que funcionan y hacia que tendencias psicosociales están voluntaria o involuntariamente orientados.
+ 				</p>
+ 		</div>
+ 		</div>
+ 	<div class="col s12 m4">
+ 		<div class="icon-block">
+ 			<h2 class="center brown-text">
+ 				<i class="material-icons">Group</i>
+ 			</h2>
+ 			<h5 class="center">User Experience Focused</h5>
+ 			<p class="light">
+ 			"By utilizing elements and priciples of material Designs, we were able o create a framework that incorporates components and animation that provide more dfeedback to users."
+ 			</p>
+ 		</div>
+ 	</div>
+ 	<div class="col s12 m4">
+ 		<div class="icon-block">
+ 			<h2 class="center brown-text">
+ 				<i class="material-icons">Settings</i>
+ 			</h2>
+ 			<h5 class="center">Easy to work with</h5>
+ 			<p>
+ 			"We have provided detailed documentation as well as specific code exameples to help new users get started."
+ 			</p>
+ 		</div>
+ 	</div>
+ 	</div>
+ 	</div>
+ 	</div>	

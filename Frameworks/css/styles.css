@@ -26,7 +26,7 @@ nav{
 	max-width: 120px;
 }
 .teal-text.text-lighten-2{
-	color: #b04db6 !important;
+	color: #fff !important;
 	font-weight: 400;
 	font-family: appleberry, sans-serif;
 }
@@ -81,8 +81,9 @@ h5{
 	font-size: 1.64rem;
 	line-height: 110%;
 	margin: 0.82rem 0 0.656rem 0;
-	color: black;
+	color: #f2f2f2;
 	font-family: roboto;
+	font-weight: bolder;
 }
 .container{
 	margin: 0 auto
@@ -118,9 +119,8 @@ h5{
 .icon-block{
 	padding: 0 15px;
 }
-.brown-text {
-	color: #0bb4e8 !important;
-}
+
+
 h2{
 	font-size:  3.56rem;
 	line-height: 110%
@@ -130,6 +130,7 @@ h2{
 .icon-block .material-icons{
 	font-size: inherit;
 }
+
 .material-icons{
 	text-rendering: optimizeLegibility;
 	font-feature-settings:'liga';
@@ -142,15 +143,21 @@ h2{
 	word-wrap: normal;
 	direction: 1tr;
 	-webkit-font-smoothing: antialiased;
+
 }
-h5{
+h4{
 	font-size: 1.64rem;
 	line-height: 110%
-	margin0.82rem 0 0.656rem 0;
+	margin:0.82rem 0 0.656rem 0;
+	color: black;
+	font-weight: bolder;
+	font-family: Century Gothic;
+	
 }
 .light{
 	font-weight: 300;
 }
+
 p{
 	line-height: 2rem;
 	display: block;
@@ -158,6 +165,17 @@ p{
 	-webkit-margin-after: 1em;
 	-webkit-margin-start: 0px;
 	-webkit-margin-end: 0px;
+	font-family: roboto;
+	color: #172a3a;
+	font-weight: bold;
+	text-align: justify;
+}
+
+.alicia{
+	width: 80%;
+	display: block;
+	content: center;
+
 }
 .row .col.m4{
 	width: 33.3333333333%
